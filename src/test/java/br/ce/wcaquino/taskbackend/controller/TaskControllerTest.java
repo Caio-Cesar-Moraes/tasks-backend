@@ -21,7 +21,7 @@ public class TaskControllerTest {
 	
 	
 	@InjectMocks
-	private TaskControllerOLd  controller;
+	private TaskController  controller;
 	
 	@Before
 	public void setup() {
